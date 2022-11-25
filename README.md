@@ -1,1 +1,1 @@
-# GenereticRepository
+# GenericRepository
